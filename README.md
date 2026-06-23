@@ -19,4 +19,4 @@ Pandas,
 NumPy,
 Scikit-learn,
 Matplotlib
-Flask/Streamlit (if applicable)
+
