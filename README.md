@@ -13,10 +13,10 @@ Supports data-driven decision making.
 
 Technologies Used
 
-Python
-Machine Learning
-Pandas
-NumPy
-Scikit-learn
+Python,
+Machine Learning,
+Pandas,
+NumPy,
+Scikit-learn,
 Matplotlib
 Flask/Streamlit (if applicable)
